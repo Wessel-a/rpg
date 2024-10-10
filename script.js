@@ -248,4 +248,4 @@ function restart() {
     xpText.innerText = xp;
     goTown();
 }
-// test
+// test x2
